@@ -1,9 +1,5 @@
 # Hello, I'm Florian Roosebeke
 
-🚀 **GitHub Stats**  
-![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianRoosebeke&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianRoosebeke&layout=compact&theme=dark)
-
 ## **Who I am**  
 Developer in training at **Holberton School**, transitioning into **Data Science** | Learning Python, C, Bash, and more | Always exploring new projects and skills.
 
