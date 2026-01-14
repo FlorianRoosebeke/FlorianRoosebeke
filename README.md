@@ -1,13 +1,13 @@
-# Hello 👋, I'm Florian Roosebeke
+# Hello, I'm Florian Roosebeke
 
-🚀 **GitHub Stats**  
-![Florian's GitHub stats](https://github-readme-stats-git-main-florianroosebekes-projects.vercel.app/api?username=FlorianRoosebeke&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats-git-main-florianroosebekes-projects.vercel.app/api/top-langs/?username=FlorianRoosebeke&layout=compact&theme=dark)
+ **GitHub Stats**  
+![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianRoosebeke&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianRoosebeke&layout=compact&theme=dark)
 
-## 🎯 **Who I am**  
+##  **Who I am**  
 Developer in training at **Holberton School**, transitioning into **Data Science** | Learning about Python, C, Bash and more | Always exploring new projects and skills.
 
-## 🧠 **Technical Skills**  
+## **Technical Skills**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
