@@ -1,18 +1,82 @@
-# Hello, I'm Florian Roosebeke 👋
+<h1 align="center">Salut, moi c'est Florian 👋</h1>
 
-## Who I am
-Developer in training at **Holberton School**, currently transitioning into **Data Science**.  
-I am learning **Python, C, and Bash**, and building projects to strengthen my programming and problem-solving skills.
+<p align="center">
+  Junior Software Developer • Holberton School<br>
+  Occitanie, France • Web, Python & APIs
+</p>
 
-## Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-## Contact
-- 📧 12160@holbertonstudents.com  
+## About me
 
-Thanks for visiting my profile. Feel free to explore my repositories and follow my progress.
+After starting a new path in software development, I am now fully focused on becoming a solid Full Stack developer.  
+Trained at [Holberton School](https://www.holbertonschool.fr/), I like to build useful, clean and maintainable web applications.
+
+I’m particularly interested in backend development with Python, API design, and modern, responsive web interfaces.  
+My objective is to join, starting in July 2026, a team where technical challenge, learning, and human values matter.
+
+---
+
+## Tech stack
+
+<!-- OS / IDE -->
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+<!-- Languages -->
+![C](https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
+
+<!-- Web / Backend -->
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=for-the-badge)
+
+---
+
+## Statistics
+
+<p align="center">
+  <!-- Stat globales -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=florianroosebeke&show_icons=true&theme=tokyonight&hide_title=true"
+    alt="GitHub stats Florian"
+  />
+</p>
+
+<p align="center">
+  <!-- Langages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianroosebeke&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <!-- Streak (facultatif) -->
+  <img
+    src="https://streak-stats.demolab.com?user=florianroosebeke&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <!-- Compteur de vues de profil (facultatif) -->
+  <img
+    src="https://komarev.com/ghpvc/?username=florianroosebeke&style=flat-square&color=blue"
+    alt="Profile views"
+  />
+</p>
+
+---
+
+## Where to find me
+- 📧 Email : <12160@holbertonstudents.com>
+- 💼 LinkedIn : www.linkedin.com/in/florian-roosebeke
+- LinkedIn: [linkedin.com/in/<ton-handle>](https://www.linkedin.com/in/<ton-handle>/)
+- Email: <ton.email@exemple.com>
