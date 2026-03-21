@@ -2,7 +2,7 @@
 
 <p align="center">
   Junior Software Developer • Holberton School<br>
-  Occitanie, France • Web, Python & APIs
+  Occitanie, France •
 </p>
 
 ---
