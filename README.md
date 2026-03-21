@@ -78,5 +78,3 @@ My objective is to join, starting in July 2026, a team where technical challenge
 ## Where to find me
 - 📧 Email : <12160@holbertonstudents.com>
 - 💼 LinkedIn : www.linkedin.com/in/florian-roosebeke
-- LinkedIn: [linkedin.com/in/<ton-handle>](https://www.linkedin.com/in/<ton-handle>/)
-- Email: <ton.email@exemple.com>
