@@ -9,10 +9,11 @@
 
 ## About me
 
-After starting a new path in software development, I am now fully focused on becoming a solid Full Stack developer.  
-Trained at [Holberton School](https://www.holbertonschool.fr/), I like to build useful, clean and maintainable web applications.
+I am a first-year student at [Holberton School](https://www.holbertonschool.fr/), building full-stack applications with a practical, product-oriented mindset.
 
-I’m particularly interested in backend development with Python, API design, and modern, responsive web interfaces.  
+I am particularly interested in web applications, APIs, and software architecture.  
+I care about code quality, maintainability, and testing, and I learn by building complete end-to-end projects. 
+
 My objective is to join, starting in July 2026, a team where technical challenge, learning, and human values matter.
 
 ---
