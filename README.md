@@ -2,7 +2,7 @@
 
 <p align="center">
   Junior Software Developer • Holberton School<br>
-  Occitanie, France •
+  Occitanie, France
 </p>
 
 ---
@@ -12,9 +12,19 @@
 I am a first-year student at [Holberton School](https://www.holbertonschool.fr/), building full-stack applications with a practical, product-oriented mindset.
 
 I am particularly interested in web applications, APIs, and software architecture.  
-I care about code quality, maintainability, and testing, and I learn by building complete end-to-end projects. 
+I enjoy learning and exploring new technologies.  
+I care about code quality, maintainability, and testing, and I learn by building complete end-to-end projects.
 
 My objective is to join, starting in July 2026, a team where technical challenge, learning, and human values matter.
+
+---
+
+## 2026 Goals
+
+- Become a strong, reliable full-stack software engineer  
+- Deliver projects with clear business impact and a solid user experience  
+- Keep improving through feedback, collaboration, and real-world coding  
+- Stay consistent in learning and in building things that actually ship  
 
 ---
 
@@ -43,7 +53,6 @@ My objective is to join, starting in July 2026, a team where technical challenge
 ## Statistics
 
 <p align="center">
-  <!-- Stat globales -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=florianroosebeke&show_icons=true&theme=tokyonight&hide_title=true"
     alt="GitHub stats Florian"
@@ -51,7 +60,6 @@ My objective is to join, starting in July 2026, a team where technical challenge
 </p>
 
 <p align="center">
-  <!-- Langages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianroosebeke&layout=compact&theme=tokyonight"
     alt="Top languages"
@@ -59,7 +67,6 @@ My objective is to join, starting in July 2026, a team where technical challenge
 </p>
 
 <p align="center">
-  <!-- Streak (facultatif) -->
   <img
     src="https://streak-stats.demolab.com?user=florianroosebeke&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
@@ -67,7 +74,6 @@ My objective is to join, starting in July 2026, a team where technical challenge
 </p>
 
 <p align="center">
-  <!-- Compteur de vues de profil (facultatif) -->
   <img
     src="https://komarev.com/ghpvc/?username=florianroosebeke&style=flat-square&color=blue"
     alt="Profile views"
@@ -77,5 +83,6 @@ My objective is to join, starting in July 2026, a team where technical challenge
 ---
 
 ## Where to find me
-- 📧 Email : <12160@holbertonstudents.com>
-- 💼 LinkedIn : www.linkedin.com/in/florian-roosebeke
+
+- 📧 Email: 12160@holbertonstudents.com  
+- 💼 LinkedIn: [www.linkedin.com/in/florian-roosebeke](https://www.linkedin.com/in/florian-roosebeke)
