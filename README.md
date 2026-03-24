@@ -1,9 +1,7 @@
-<h1 align="center">Salut, moi c'est Florian 👋</h1>
-
-<p align="center">
+<h1 align="center">
   Junior Software Developer • Holberton School<br>
   Occitanie, France
-</p>
+</h1>
 
 ---
 
