@@ -13,7 +13,6 @@ I am particularly interested in web applications, APIs, and software architectur
 I enjoy learning and exploring new technologies.  
 I care about code quality, maintainability, and testing, and I learn by building complete end-to-end projects.
 
-My objective is to join, starting in July 2026, a team where technical challenge, learning, and human values matter.
 
 ---
 
