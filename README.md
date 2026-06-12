@@ -1,5 +1,5 @@
 <h1 align="center">
-  Junior Software Developer • Holberton School<br>
+  Junior Software Developer • Holberton School <br>
   Occitanie, France
 </h1>
 
