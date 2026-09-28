@@ -33,13 +33,6 @@ I am still learning, and that's one of the things I enjoy most about this career
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top languages" height="165" />
-</p>
-
 ## Where to find me
 
 - 💼 LinkedIn: [linkedin.com/in/florian-roosebeke](https://www.linkedin.com/in/florian-roosebeke)
